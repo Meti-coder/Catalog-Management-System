@@ -8,7 +8,7 @@ Maven: For managing project dependencies
 
 # Setup Instructions
 Clone the Repository
-Clone the project to your local machine using Git:https://github.com/Niteshkarmore7888/CatalogManagementSystem.git
+Clone the project to your local machine using Git:https://github.com/Meti-coder/Catalog-Management-System.git
 
 # Configure Database
 Update the application.properties file with your MySQL database credentials:
